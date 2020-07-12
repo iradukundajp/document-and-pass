@@ -1,4 +1,4 @@
-7/12/2020, 1:37:02 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F..F.
@@ -20,8 +20,4 @@ Failures:
 .    Expected undefined to equal false..
 
 5 specs, 5 failures
-<<<<<<< HEAD
-Finished in 0.01 seconds
-=======
-Finished in 0.006 seconds
->>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
+Finished in 0.004 seconds

@@ -3,11 +3,7 @@
 <!-- END TITLE -->
 
 <!-- BEGIN TOC -->
-<<<<<<< HEAD
-> 7/12/2020, 1:37:02 PM
-=======
-> 7/10/2020, 9:15:06 AM
->>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
+> 7/12/2020, 11:38:21 AM
 
 - [0-hello-world](#0-hello-world)
 - [1-remove-from-array](#1-remove-from-array)
@@ -48,7 +44,7 @@ console.log(greeting); // 'Hello, World!'
 ```
 **Test Report**
 ```
-7/12/2020, 1:37:01 PM
+7/12/2020, 11:38:20 AM
 
 Started
 .F..F.
@@ -61,7 +57,7 @@ Failures:
 .    Expected '' to equal 'Hello, toys!'..
 
 2 specs, 2 failures
-Finished in 0.027 seconds
+Finished in 0.009 seconds
 
 ```
 
@@ -78,7 +74,7 @@ Finished in 0.027 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:01 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F..F..F..F.
@@ -106,7 +102,7 @@ Failures:
 .    Expected undefined to equal [ 1, 2 ]..
 
 7 specs, 7 failures
-Finished in 0.016 seconds
+Finished in 0.007 seconds
 
 ```
 
@@ -123,7 +119,7 @@ Finished in 0.016 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:01 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F..F..F..F.
@@ -151,11 +147,7 @@ Failures:
 .    Expected undefined to equal ''..
 
 7 specs, 7 failures
-<<<<<<< HEAD
-Finished in 0.013 seconds
-=======
-Finished in 0.009 seconds
->>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
+Finished in 0.008 seconds
 
 ```
 
@@ -172,7 +164,7 @@ Finished in 0.009 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:01 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F.
@@ -191,11 +183,7 @@ Failures:
 .    Expected undefined to equal ''..
 
 4 specs, 4 failures
-<<<<<<< HEAD
-Finished in 0.015 seconds
-=======
-Finished in 0.004 seconds
->>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
+Finished in 0.003 seconds
 
 ```
 
@@ -212,7 +200,7 @@ Finished in 0.004 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:02 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F..F..F.
@@ -237,11 +225,7 @@ Failures:
 .    Expected undefined to equal 'ERROR'..
 
 6 specs, 6 failures
-<<<<<<< HEAD
-Finished in 0.024 seconds
-=======
 Finished in 0.006 seconds
->>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
 
 ```
 
@@ -258,7 +242,7 @@ Finished in 0.006 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:02 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F..F..F..F..F..F.
@@ -292,7 +276,7 @@ Failures:
 .    Expected undefined to equal 21..
 
 9 specs, 9 failures
-Finished in 0.016 seconds
+Finished in 0.008 seconds
 
 ```
 
@@ -309,7 +293,7 @@ Finished in 0.016 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:02 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F.
@@ -319,7 +303,7 @@ Failures:
 .    Expected undefined to equal [ 'Book', 'Book2' ]..
 
 1 spec, 1 failure
-Finished in 0.007 seconds
+Finished in 0.001 seconds
 
 ```
 
@@ -336,7 +320,7 @@ Finished in 0.007 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:02 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F..F..F.
@@ -361,7 +345,7 @@ Failures:
 .    Expected undefined to equal false..
 
 6 specs, 6 failures
-Finished in 0.013 seconds
+Finished in 0.005 seconds
 
 ```
 
@@ -378,7 +362,7 @@ Finished in 0.013 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:02 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F..F.
@@ -400,11 +384,7 @@ Failures:
 .    Expected undefined to equal false..
 
 5 specs, 5 failures
-<<<<<<< HEAD
-Finished in 0.01 seconds
-=======
-Finished in 0.006 seconds
->>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
+Finished in 0.004 seconds
 
 ```
 
@@ -421,7 +401,7 @@ Finished in 0.006 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:02 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F..F..F..F.
@@ -449,11 +429,7 @@ Failures:
 .    Expected undefined to equal 'Ebiil, Tloia!'..
 
 7 specs, 7 failures
-<<<<<<< HEAD
-Finished in 0.014 seconds
-=======
-Finished in 0.005 seconds
->>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
+Finished in 0.006 seconds
 
 ```
 
@@ -470,7 +446,7 @@ Finished in 0.005 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:02 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F.
@@ -486,7 +462,7 @@ Failures:
 .    TypeError: Cannot read property 'name' of undefined.
 
 3 specs, 3 failures
-Finished in 0.012 seconds
+Finished in 0.004 seconds
 
 ```
 
@@ -503,7 +479,7 @@ Finished in 0.012 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:02 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F..F..F..F..F..F.
@@ -537,11 +513,7 @@ Failures:
 .    Expected undefined to equal 'ethay ickquay ownbray oxfay'..
 
 9 specs, 9 failures
-<<<<<<< HEAD
-Finished in 0.018 seconds
-=======
 Finished in 0.008 seconds
->>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
 
 ```
 
@@ -558,7 +530,7 @@ Finished in 0.008 seconds
 
 **Test Report**
 ```
-7/12/2020, 1:37:02 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F..F..F.
@@ -583,7 +555,7 @@ Failures:
 .    Expected undefined to equal 'snake_case_is_awesome'..
 
 6 specs, 6 failures
-Finished in 0.016 seconds
+Finished in 0.007 seconds
 
 ```
 

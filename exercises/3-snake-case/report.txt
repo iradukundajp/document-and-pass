@@ -1,4 +1,4 @@
-7/12/2020, 1:37:02 PM
+7/12/2020, 11:38:21 AM
 
 Started
 .F..F..F..F..F..F.
@@ -23,4 +23,4 @@ Failures:
 .    Expected undefined to equal 'snake_case_is_awesome'..
 
 6 specs, 6 failures
-Finished in 0.016 seconds
+Finished in 0.007 seconds
