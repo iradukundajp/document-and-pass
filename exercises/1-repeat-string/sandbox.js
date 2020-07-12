@@ -1,0 +1,1 @@
+const repeatString = require('./index');

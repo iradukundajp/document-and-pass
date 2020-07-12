@@ -1,0 +1,1 @@
+const palindromes = require('./index');

@@ -1,0 +1,3 @@
+add dates to report.txt files
+mention that `npm install` is for the scripts
+add sandbox.js

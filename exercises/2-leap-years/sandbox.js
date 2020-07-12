@@ -1,0 +1,1 @@
+const leapYears = require('./index');

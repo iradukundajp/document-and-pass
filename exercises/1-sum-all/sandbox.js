@@ -1,0 +1,1 @@
+const sumAll = require('./index');

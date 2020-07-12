@@ -1,0 +1,1 @@
+const getTheTitles = require('./index');
