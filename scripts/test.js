@@ -74,9 +74,11 @@ const testExercise = (paths, index) => {
     const cleanReport = report
       .replace(/\s+Message[^\n]+/g, '')
       .replace(/((\s+Stack:)([\s\S]*?)(\n\n))/g, '\n\n');
-    // .replace(/\s+at [^\n]+/g, '')
-    // .replace(/((\s+Message:)([\s\S]*?)(\s+Stack:))/g, '');
-    fs.writeFileSync(reportPath, cleanReport);
+
+    const datedReport = (new Date()).toLocaleString()
+      + '\n\n'
+      + cleanReport;
+    fs.writeFileSync(reportPath, datedReport);
 
     // test the next exercise
     testExercise(paths, index + 1);

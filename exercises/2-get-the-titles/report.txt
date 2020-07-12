@@ -1,3 +1,5 @@
+7/12/2020, 1:37:02 PM
+
 Started
 .F.
 
@@ -6,4 +8,4 @@ Failures:
 .    Expected undefined to equal [ 'Book', 'Book2' ]..
 
 1 spec, 1 failure
-Finished in 0.001 seconds
+Finished in 0.007 seconds
