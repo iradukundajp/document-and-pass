@@ -3,7 +3,11 @@
 <!-- END TITLE -->
 
 <!-- BEGIN TOC -->
+<<<<<<< HEAD
 > 7/12/2020, 1:37:02 PM
+=======
+> 7/10/2020, 9:15:06 AM
+>>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
 
 - [0-hello-world](#0-hello-world)
 - [1-remove-from-array](#1-remove-from-array)
@@ -147,7 +151,11 @@ Failures:
 .    Expected undefined to equal ''..
 
 7 specs, 7 failures
+<<<<<<< HEAD
 Finished in 0.013 seconds
+=======
+Finished in 0.009 seconds
+>>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
 
 ```
 
@@ -183,7 +191,11 @@ Failures:
 .    Expected undefined to equal ''..
 
 4 specs, 4 failures
+<<<<<<< HEAD
 Finished in 0.015 seconds
+=======
+Finished in 0.004 seconds
+>>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
 
 ```
 
@@ -225,7 +237,11 @@ Failures:
 .    Expected undefined to equal 'ERROR'..
 
 6 specs, 6 failures
+<<<<<<< HEAD
 Finished in 0.024 seconds
+=======
+Finished in 0.006 seconds
+>>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
 
 ```
 
@@ -384,7 +400,11 @@ Failures:
 .    Expected undefined to equal false..
 
 5 specs, 5 failures
+<<<<<<< HEAD
 Finished in 0.01 seconds
+=======
+Finished in 0.006 seconds
+>>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
 
 ```
 
@@ -429,7 +449,11 @@ Failures:
 .    Expected undefined to equal 'Ebiil, Tloia!'..
 
 7 specs, 7 failures
+<<<<<<< HEAD
 Finished in 0.014 seconds
+=======
+Finished in 0.005 seconds
+>>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
 
 ```
 
@@ -513,7 +537,11 @@ Failures:
 .    Expected undefined to equal 'ethay ickquay ownbray oxfay'..
 
 9 specs, 9 failures
+<<<<<<< HEAD
 Finished in 0.018 seconds
+=======
+Finished in 0.008 seconds
+>>>>>>> c8a5bb55ba702b46b0492618726bcbde1cbda93b
 
 ```
 
