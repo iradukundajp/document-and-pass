@@ -1,4 +1,4 @@
-const snakeCase = require('./index');
+const snakeCase = require('./index.js');
 
 describe('snakeCase', function () {
     it('works with simple lowercased phrases', function () {

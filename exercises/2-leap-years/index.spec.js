@@ -1,4 +1,4 @@
-const leapYears = require('./index');
+const leapYears = require('./index.js');
 
 describe('leapYears', function () {
   it('works with non century years', function () {

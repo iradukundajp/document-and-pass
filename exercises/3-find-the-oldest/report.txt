@@ -1,17 +1,25 @@
-7/12/2020, 11:38:21 AM
+7/17/2023, 10:10:00 AM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/hyf/Desktop/HYFB/Behavior-Strategy/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/hyf/Desktop/HYFB/Behavior-Strategy/document-and-pass/scripts/test.js:69:11)
+    at /home/hyf/Desktop/HYFB/Behavior-Strategy/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/hyf/Desktop/HYFB/Behavior-Strategy/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F.
 
 Failures:
 1) findTheOldest finds the oldest person!
-.    TypeError: Cannot read property 'name' of undefined.
+.    TypeError: Cannot read properties of undefined (reading 'name').
 
 2) findTheOldest finds the oldest person if someone is still living
-.    TypeError: Cannot read property 'name' of undefined.
+.    TypeError: Cannot read properties of undefined (reading 'name').
 
 3) findTheOldest finds the oldest person if the OLDEST is still living
-.    TypeError: Cannot read property 'name' of undefined.
+.    TypeError: Cannot read properties of undefined (reading 'name').
 
 3 specs, 3 failures
-Finished in 0.004 seconds
+Finished in 0.008 seconds

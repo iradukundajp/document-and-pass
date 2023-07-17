@@ -1,7 +1,15 @@
-7/12/2020, 11:38:21 AM
+7/17/2023, 10:10:00 AM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/hyf/Desktop/HYFB/Behavior-Strategy/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/hyf/Desktop/HYFB/Behavior-Strategy/document-and-pass/scripts/test.js:69:11)
+    at /home/hyf/Desktop/HYFB/Behavior-Strategy/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/hyf/Desktop/HYFB/Behavior-Strategy/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
-.F..F..F..F..F..F.
+.F..F..F..F..F.
 
 Failures:
 1) snakeCase works with simple lowercased phrases
@@ -13,14 +21,11 @@ Failures:
 3) snakeCase works with longer phrases
 .    Expected undefined to equal 'this_is_the_song_that_never_ends'..
 
-4) snakeCase works with camel case
+4) snakeCase works with kebab case
 .    Expected undefined to equal 'snake_case'..
 
-5) snakeCase works with kebab case
-.    Expected undefined to equal 'snake_case'..
-
-6) snakeCase works with WTF case
+5) snakeCase works with WTF case
 .    Expected undefined to equal 'snake_case_is_awesome'..
 
-6 specs, 6 failures
-Finished in 0.007 seconds
+5 specs, 5 failures
+Finished in 0.012 seconds
